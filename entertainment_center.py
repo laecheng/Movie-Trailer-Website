@@ -1,6 +1,9 @@
+# import the media module from the Python library
 import media
+# fresh_tomatoes is the procedure that renders the page
 import fresh_tomatoes
 
+# create movie instances
 avatar = media.Movie("Avatar",
                      "A marine on an alien planet",
                      "https://upload.wikimedia.org/wikipedia/en/b/b0/" +
